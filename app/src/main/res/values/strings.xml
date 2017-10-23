@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextView AutoLink</string>
+    <string-array name="products">
+        <item>milk</item>
+        <item>butter</item>
+        <item>bread</item>
+        <item>cheeze</item>
+    </string-array>
+</resources>
